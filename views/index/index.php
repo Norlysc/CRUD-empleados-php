@@ -16,3 +16,4 @@
 	</div>
 </div>
 
+<!-- Este bloque crea un contenedor principal que incluye un encabezado centrado con el título "CRUD - EMPLEADOS - MVC". También proporciona un botón para agregar un nuevo empleado que abre un modal al hacer clic. El div con el id "information" se utiliza para mostrar información dinámica, como la lista de empleados, y contiene un botón que llama a la función `leerEmpleados()` para cargar los datos de los empleados. -->

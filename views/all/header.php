@@ -10,3 +10,4 @@
 </head>
 <body>
 	
+<!-- Esta es la estructura básica de la página. Se incluyen metaetiquetas para la codificación y el viewport, así como enlaces a los estilos de Bootstrap y jQuery para manejar la funcionalidad y diseño de la aplicación. -->

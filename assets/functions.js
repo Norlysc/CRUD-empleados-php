@@ -142,4 +142,3 @@ function ModalUpdate(
   document.formEmpleadoActualizar.role.value = role.trim();
   $("#actualizarEmpleado").modal("show");
 }
-

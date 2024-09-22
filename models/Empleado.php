@@ -86,3 +86,9 @@ class Empleado extends db{
 	}	
 }
 ?>
+
+<!--La clase Empleado  gestiona las operaciones relacionadas con los empleados en el sistema CRUD. Hereda de la clase db para acceder a la base de datos y proporciona métodos para:
+Ver empleados: Recuperar la lista de empleados junto con sus detalles.
+Registrar empleados: Añadir nuevos registros de empleados a la base de datos.
+Actualizar empleados: Modificar la información de empleados existentes.
+Eliminar empleados: Borrar registros de empleados de la base de datos.-->

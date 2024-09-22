@@ -114,3 +114,5 @@
     </div>
   </div>
 </div>
+
+<!-- Este archivo contiene la estructura del modal utilizado para agregar o editar empleados. Proporciona un formulario que permite al usuario ingresar o actualizar la información del empleado, como nombre, correo electrónico, salario y puesto. Al enviar el formulario, se procesan los datos a través de funciones de JavaScript y se envían al servidor para su almacenamiento o actualización en la base de datos. -->

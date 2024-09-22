@@ -18,3 +18,5 @@ if(file_exists('controllers/' . $c . '.php')){
 }
 
 
+//Este archivo actúa como el enrutador principal de la aplicación. Se encarga de determinar qué controlador y método se deben invocar en función de los parámetros `c` controlador y `m` método pasados en la URL. Si no se especifican, utiliza valores predeterminados para cargar el controlador de empleados y el método índice. Verifica la existencia del controlador y método, y si todo es correcto, instancia el controlador y llama al método correspondiente. Si hay un error, se muestra un mensaje adecuado. 
+
