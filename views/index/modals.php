@@ -61,7 +61,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Actualizar informacion empleado </h4>        
+        <h4 class="modal-title">Actualizar información empleado </h4>        
       </div>
       <div class="modal-body">
 		<form name="formEmpleadoActualizar" onsubmit="actualizar(); return false">
@@ -99,7 +99,7 @@
 		  <div class="input-group">
 		    <span class="input-group-addon"><i class="glyphicon glyphicon-star"></i></span>
 		    <select id="role" name="role" class="form-control">
-                <option value="1">Tecnico</option>
+                <option value="1">Técnico</option>
                 <option value="2">Administrativo</option>
                 <option value="3">Analista</option>
             </select>

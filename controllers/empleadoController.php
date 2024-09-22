@@ -20,10 +20,10 @@ class empleadoController extends Empleado{
 				<th>Email</th>
 				<th>Salario</th>
 				<th>Puesto</th>
-				<th>Fecha Contratacion</th>
+				<th>Fecha Contratación</th>
 				<th>Departamento</th>
 				<th>Role</th>
-				<th>Accion</th>
+				<th>Acción</th>
 				</tr>
 			</thead>
 			<tbody >		

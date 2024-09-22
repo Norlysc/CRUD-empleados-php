@@ -5,7 +5,7 @@
 			<br>			
 			<center>
             <button type="button" onclick="ModalRegistrar();" class="btn btn-success">
-			<i class="bi bi-plus-circle"></i> Agregar empleado
+			<i class="bi bi-plus-circle"></i> Agregar Empleado
             </button>
             </center>
 			<br>
